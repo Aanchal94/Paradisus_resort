@@ -1,0 +1,39 @@
+.wrapper{
+	width:1000px;
+	margin:0px auto;
+}
+
+
+
+#slider{
+	width: 2000px;
+	height: 400px;
+	overflow: hidden;
+	margin: 30px auto;
+}
+#slider > Img{
+	width:2000;
+	height:1000px;
+	float:left;
+	display:none;
+}
+
+a{
+	padding: 5px 10px;
+	background-color:#F0F0F0;
+	marin-top:30px;
+	text-decoration:none;
+	color:#666666;
+}
+
+a.left{
+padding-top: 270px;
+padding-left: 185px;
+
+}
+a.right{
+padding-top: 270px;
+padding-right: 215px;
+
+
+}

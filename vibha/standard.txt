@@ -1,0 +1,6 @@
+<div class="room-descr">
+        <h2><a style="outline: medium none;" hidefocus="true" href="http://www.hotelcachet.com/all-room-list/standart-rooms/">STANDARD ROOMS</a></h2>
+        <div class="room-price">/night</div>
+        <div class="room-text">
+            <p>The Standard room has side sea views, a large balcony and is also a double room. Like the other rooms it has a king size 4 poster bed, LCD panel TV, a fridge and a walk in shower. There is a large seafacing balcony with table and chairs.</p>
+        </div>

@@ -1,0 +1,76 @@
+
+#container{
+	heigth:1000px;
+	width:650px;
+	margin:20px auto;
+	position:relative;
+	}
+#img{
+heigth:1000px;
+	width:650px;
+	margin:20px auto;
+	position:absolute;	
+}
+#left_holder{
+	heigth:450px;
+	width:100px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	}
+#right_holder{
+	heigth:450px;
+	width:100px;
+	position:absolute;
+	right:0px;
+	top:0px;	
+	}
+.left{
+	height:1000px;
+	width:1000px;
+	position:absolute;
+	top:389px;
+	left:0px;
+	}
+.right{
+	height:1000px;
+	width:1000px;
+	position:absolute;
+	top:389px;
+	right:0px;
+	}
+p#ROOM{
+font-family:Serif;
+text-align:center;
+
+}
+H3#komal{
+text-align:center;
+color: 	#800080;
+text-decoration:underline;
+font-family: Lucida Calligraphy;
+}
+H4#KOMAL1{
+text-align:center;
+color:orange;
+
+    font-family: Lucida Calligraphy;
+}
+#header {
+ border-radius:5px;
+   
+ height:60px;
+   
+ border:2px solid black;
+   
+ background-color:#F0FFFF;
+ 
+ text-align:center;  
+ 
+font-family: Lucida Calligraphy;
+ size:40px;
+color:red;
+} 
+
+
+
